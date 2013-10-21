@@ -1,0 +1,18 @@
+{
+	"name": "app",
+	"version": "0.0.0",
+	"dependencies": {
+		"requirejs": "2.1.8",
+		"require-cs": "0.4.4",
+		"require-handlebars-plugin": "0.4.0",
+		"handlebars": "1.0.0-rc.1",
+		"jquery": "2.0.3",
+		"json2": "*",
+		"underscore": "1.5.2",
+		"backbone": "1.1.0",
+		"marionette": "1.1.0",
+		"backbone.wreqr": "0.2.0",
+		"backbone.eventbinder": "1.0.2",
+		"backbone.babysitter": "0.0.6"
+  }
+}
